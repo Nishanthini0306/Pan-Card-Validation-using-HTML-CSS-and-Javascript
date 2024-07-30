@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: lightgrey;
+}
+form{
+    margin-top: 250px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    height: 150px;
+    width: 400px;
+    margin-left: 500px;
+    background-color: lightseagreen;
+    box-shadow: 5px 10px 10px 12px whitesmoke;
+    
+}
+
+P{
+    margin-left: 0px;
+    background-color: palevioletred;
+    height: 30px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+label{
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+input{
+    height: 20px;
+
+}
+.pan{
+    border-bottom: 2px solid grey;
+     padding: 10px; 
+     width: 380px;
+    margin-top: 10px;
+}
+button{
+    margin-top: 20px;
+    margin-left: 170px;
+}
+button:hover{
+    background-color: green;
+}
